@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="cb_layout_width_default">90dp</dimen>
+    <dimen name="cb_layout_height_default">90dp</dimen>
+    <dimen name="cb_main_circle_radius_default">28dp</dimen>
+    <dimen name="cb_main_circle_radius_expanded_default">28dp</dimen>
+    <dimen name="cb_stroke_width_default">12dp</dimen>
+    <dimen name="cb_progress_arc_width_default">8dp</dimen>
+    <dimen name="cb_icon_size_default">28dp</dimen>
+
+    <integer name="cb_expand_duration_default">200</integer>
+    <integer name="cb_expand_delay_default">300</integer>
+    <integer name="cb_collapse_duration_default">200</integer>
+    <integer name="cb_hold_duration_default">17000</integer>
+    <integer name="cb_icon_scroll_duration_default">150</integer>
+
+</resources>

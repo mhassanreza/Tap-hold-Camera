@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TapAndHold</string>
+    <string name="permission_not_granted">Error: Permissions has not been granted. Please start app again for permissions.</string>
+    <string name="permission_rationale">Info: Permissions required to show the camera preview.</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="open_permissions">Open permissions</string>
+</resources>

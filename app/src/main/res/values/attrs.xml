@@ -1,0 +1,32 @@
+<resources>
+
+    <declare-styleable name="CameraButton">
+        <attr name="cb_main_circle_color" format="color"/>
+        <attr name="cb_main_circle_color_pressed" format="color"/>
+        <attr name="cb_main_circle_radius" format="dimension"/>
+        <attr name="cb_main_circle_radius_expanded" format="dimension"/>
+        <attr name="cb_stroke_color" format="color"/>
+        <attr name="cb_stroke_color_pressed" format="color"/>
+        <attr name="cb_stroke_width" format="dimension"/>
+        <attr name="cb_progress_arc_colors" format="reference"/>
+        <attr name="cb_progress_arc_width" format="dimension"/>
+        <attr name="cb_gradient_rotation_multiplier" format="float"/>
+        <attr name="cb_expand_duration" format="integer"/>
+        <attr name="cb_expand_delay" format="integer"/>
+        <attr name="cb_collapse_duration" format="integer"/>
+        <attr name="cb_video_duration" format="integer"/>
+        <attr name="cb_icons" format="reference"/>
+        <attr name="cb_icon_size" format="dimension"/>
+        <attr name="cb_icon_scroll_duration" format="integer"/>
+        <attr name="cb_mode" format="enum">
+            <enum name="all" value="0"/>
+            <enum name="photo" value="1"/>
+            <enum name="video" value="2"/>
+        </attr>
+        <attr name="cb_collapse_action" format="enum">
+            <enum name="release" value="0"/>
+            <enum name="click" value="1"/>
+        </attr>
+    </declare-styleable>
+
+</resources>
